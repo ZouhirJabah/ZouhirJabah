@@ -1,4 +1,4 @@
-<h3 align="center">I am a Full Stack Developer based Errachidia,MA.</h3>
+<h3 align="center">I am a Full Stack Developer based Errachidia , MA.</h3>
 
 - 🌱 I’m currently learning **Next.js**
 

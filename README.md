@@ -1,6 +1,5 @@
-👋 Hello World!
-
-<h3 align="center">I am a Full Stack Developer based Errachidia , MA.</h3>
+<h1 align="center">👋,HELLO I am a Full Stack Developer based in Errachidia,MA.</h1>
+<h3 align="center">I am a Full Stack Developer based Errachidia,MA.</h3>
 
 - 🌱 I’m currently learning **Next.js**
 

@@ -1,6 +1,10 @@
-<h4 align="center">Passionate Full-Stack Developer with 4+ years of hands-on experience. I enjoy learning new tools and technology that gets the job done</h4>
+<h3 align="center">Passionate Full-Stack Developer From Errachidia, Morocco</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zouhirjabah&label=Profile%20views&color=0e75b6&style=flat" alt="zouhirjabah" /> </p>
 
 - 🌱 I’m currently learning **Next.js**
+
+- 👨‍💻 All of my projects are available at [https://jabahzouhir.netlify.app/](https://jabahzouhir.netlify.app/)
 
 - 📫 How to reach me **jabahzouhir2000@gmail.com**
 

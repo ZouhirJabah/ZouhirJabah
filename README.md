@@ -1,5 +1,4 @@
-<h1 align="center">👋,HELLO I am a Full Stack Developer based in Errachidia,MA.</h1>
-<h3 align="center">I am a Full Stack Developer based Errachidia,MA.</h3>
+<h3 align="center">Passionate Full-Stack Developer with 4+ years of hands-on experience in developing scalable and maintainable websites and applications using a wide range of front-end and back-end skills like React,Node.js/Express, JavaScript,PHP,Laravel and .Net.I enjoy learning new tools and technology that gets the job done well for my clients and I always focus on providing quality, satisfaction and cost-effective result within strict deadline.</h3>
 
 - 🌱 I’m currently learning **Next.js**
 

@@ -31,5 +31,5 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,php,laravel,bootstrap,dotnet,mysql,git,numpy" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,php,laravel,dotnet,mysql,git,keras" />
 </p>

@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🌐 Check out my portfolio: **[jabahzouhir.netlify.app](https://jabahzouhir.netlify.app/)**
+- 🌐 Check out my portfolio: <a href="https://jabahzouhir.netlify.app/" target="_blank">**jabahzouhir.netlify.app**</a>
 - 🌱 Currently deepening my expertise in **Java** and backend architecture.
 - 📫 How to reach me: **jabahzouhir2000@gmail.com**
 
@@ -24,7 +24,7 @@
   <a href="https://twitter.com/k1yg01" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:jabahzouhir2000@gmail.com">
+  <a href="mailto:jabahzouhir2000@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -35,4 +35,13 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,laravel,bootstrap,c,cs,dotnet,mysql,mssql,git,java" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zouhirjabah&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zouhirjabah&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>

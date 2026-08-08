@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jabah Zouhir</h1>
-<h3 align="center">Passionate Full-Stack Developer</h3>
+<h3 align="center">Développeur Full Stack | PHP, Laravel, .Net ,Python | Data Science & Machine Learning</h3>
 
 
 ---

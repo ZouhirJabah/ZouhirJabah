@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jabah Zouhir</h1>
 <h3 align="center">Passionate Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zouhirjabah&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
 
 ---
 
@@ -17,7 +14,6 @@
 
 ### 🤝 Connect with Me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/zouhir-jabah" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />

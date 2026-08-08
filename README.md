@@ -36,14 +36,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,laravel,bootstrap,c,cs,dotnet,mysql,mssql,git,java" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zouhirjabah&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zouhirjabah&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
-</p>

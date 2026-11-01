@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 🌐 Check out my portfolio: <a href="https://jabahzouhir.netlify.app/" target="_blank">**jabahzouhir.netlify.app**</a>
+- 🌐 Check out my portfolio: <a href="https://jabahzouhir.vercel.app/" target="_blank">**jabahzouhir.netlify.app**</a>
 - 📫 How to reach me: **jabahzouhir2000@gmail.com**
 
 ---

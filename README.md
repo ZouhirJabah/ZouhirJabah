@@ -55,40 +55,6 @@ Je recherche des opportunités pour contribuer à des projets web innovants, am�
 
 ---
 
-## 🚀 Projets
-
-### 📊 [Nom du projet 1](lien-du-repository)
-Développement d’une application web permettant de [décrire brièvement la fonctionnalité principale].
-
-**Technologies :** Laravel, PHP, MySQL, Bootstrap, JavaScript  
-**Fonctionnalités :** authentification, gestion des utilisateurs, tableau de bord, API REST  
-
-### 🤖 [Nom du projet 2](lien-du-repository)
-Application de [description], intégrant un modèle de Machine Learning pour [objectif du modèle].
-
-**Technologies :** Python, Pandas, Scikit-learn, Flask, HTML/CSS  
-**Fonctionnalités :** analyse de données, prédiction, visualisation des résultats  
-
-### 🌐 [Nom du projet 3](lien-du-repository)
-Site web ou application permettant de [description courte].
-
-**Technologies :** PHP, Laravel, MySQL, JavaScript  
-**Fonctionnalités :** gestion de contenu, interface responsive, recherche et filtres  
-
----
-
-## 📈 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME_GITHUB&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME_GITHUB&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 🤝 Me contacter
 
 <p align="left">

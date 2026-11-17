@@ -20,13 +20,12 @@ Développeur Full Stack | PHP, Laravel, .NET, Python | Data Science & Machine Le
 
 ## 👨‍💻 À propos de moi
 
-Développeur Full Stack basé au Maroc, passionné par la création d’applications web performantes, maintenables et centrées utilisateur.  
+Développeur Full Stack, passionné par la création d’applications web performantes, maintenables et centrées utilisateur.  
 
 Je travaille principalement avec **PHP, Laravel, .NET et Python**, et je m’intéresse également au **développement web**, à la **data science** et à l’intégration de modèles de **Machine Learning** dans des solutions concrètes.
 
 Je recherche des opportunités pour contribuer à des projets web innovants, améliorer mes compétences techniques et collaborer avec des équipes professionnelles.
 
-- 🌍 Basé au Maroc  
 - 💼 Développeur Full Stack  
 - 🎯 Spécialités : Laravel, PHP, .NET, Python, MySQL  
 - 🤖 Intérêts : Data Science, Machine Learning, automatisation  
@@ -43,7 +42,7 @@ Je recherche des opportunités pour contribuer à des projets web innovants, am�
 
 ### Python, Data Science & Machine Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,tensorflow,pytorch,opencv,scikitlearn" alt="Python and Data Science Skills" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,tensorflow,pytorch,scikitlearn" alt="Python and Data Science Skills" />
 </p>
 
 ### Compétences clés

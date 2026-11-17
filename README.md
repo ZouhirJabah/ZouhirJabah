@@ -28,7 +28,6 @@ Je développe des solutions avec **PHP, Laravel, .NET et Python**, tout en m’i
 
 Je suis à la recherche d’opportunités professionnelles, de projets freelance et de collaborations techniques afin de continuer à progresser et de contribuer à des produits numériques de qualité.
 
-- 🌍 Basé au Maroc  
 - 💼 Développeur Full Stack  
 - 🎯 Technologies principales : PHP, Laravel, .NET, Python, MySQL  
 - 🤖 Domaines d’intérêt : Data Science, Machine Learning, automatisation  
@@ -47,7 +46,7 @@ Je suis à la recherche d’opportunités professionnelles, de projets freelance
 ### Python, Data Science & Machine Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,tensorflow,pytorch,opencv,scikitlearn" alt="Python and Data Science Skills" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn" alt="Python and Data Science Skills" />
 </p>
 
 ### Compétences principales
@@ -60,28 +59,6 @@ Je suis à la recherche d’opportunités professionnelles, de projets freelance
 - Création de modèles de Machine Learning  
 - Automatisation de tâches avec Python  
 - Utilisation de Git et GitHub pour la gestion de versions  
-
----
-
-## 🚀 Projets sélectionnés
-
-### 🌐 [Nom du projet 1](lien-vers-github)
-Application web permettant de **[décrire l’objectif principal du projet]**.
-
-**Technologies :** Laravel, PHP, MySQL, Bootstrap, JavaScript  
-**Fonctionnalités :** authentification, gestion des utilisateurs, tableau de bord, API REST  
-
-### 🤖 [Nom du projet 2](lien-vers-github)
-Projet de **Machine Learning** permettant de **[décrire le problème résolu]**.
-
-**Technologies :** Python, Pandas, NumPy, Scikit-learn, Flask  
-**Fonctionnalités :** analyse de données, entraînement de modèle, prédiction, visualisation  
-
-### 📱 [Nom du projet 3](lien-vers-github)
-Application ou site web permettant de **[décrire la fonctionnalité principale]**.
-
-**Technologies :** PHP, Laravel, MySQL, JavaScript  
-**Fonctionnalités :** interface responsive, gestion de contenu, recherche, filtres  
 
 ---
 

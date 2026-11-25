@@ -65,18 +65,6 @@ Je suis à la recherche d’opportunités professionnelles, de projets freelance
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZouhirJabah&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZouhirJabah&theme=tokyonight" alt="Repositories per language" />
-</p>
-
----
-
 ## 📫 Me contacter
 
 <p align="left">

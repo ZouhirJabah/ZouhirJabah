@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Développeur Full Stack • PHP • Laravel • .NET • Python • Data Science • Machine Learning
+  Développeur Full Stack • PHP • Laravel  • Python • Data Science • Machine Learning
 </h3>
 
 <p align="center">
@@ -24,12 +24,12 @@
 
 Je suis **Zouhir Jabah**, développeur Full Stack passionné par la création d’applications web modernes, performantes et utiles.  
 
-Je développe des solutions avec **PHP, Laravel, .NET et Python**, tout en m’intéressant à la **Data Science** et au **Machine Learning** pour créer des fonctionnalités intelligentes et automatisées.
+Je développe des solutions avec **PHP, Laravel et Python**, tout en m’intéressant à la **Data Science** et au **Machine Learning** pour créer des fonctionnalités intelligentes et automatisées.
 
 Je suis à la recherche d’opportunités professionnelles, de projets freelance et de collaborations techniques afin de continuer à progresser et de contribuer à des produits numériques de qualité.
 
 - 💼 Développeur Full Stack  
-- 🎯 Technologies principales : PHP, Laravel, .NET, Python, MySQL  
+- 🎯 Technologies principales : PHP, Laravel, Python, MySQL  
 - 🤖 Domaines d’intérêt : Data Science, Machine Learning, automatisation  
 - 📫 Email : **jabahzouhir2000@gmail.com**  
 
@@ -56,7 +56,7 @@ Je suis à la recherche d’opportunités professionnelles, de projets freelance
 
 - Développement d’applications web Full Stack  
 - Création et consommation d’API REST  
-- Développement backend avec PHP, Laravel et .NET  
+- Développement backend avec PHP, Laravel
 - Conception et gestion de bases de données MySQL  
 - Analyse, nettoyage et visualisation de données avec Python  
 - Création de modèles de Machine Learning  
